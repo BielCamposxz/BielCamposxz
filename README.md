@@ -31,6 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="32" height="32" alt=".Net"/>
+  <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" width="32" height="32" alt=".Net"/>
+
 </p>
 
 ### Outros Conhecimentos
