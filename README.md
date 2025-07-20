@@ -41,7 +41,6 @@
 - 💻 **Hardware**
 - 🛡️ **Cibersegurança**
 - 🌐 **Redes**
-- 🛠️ **Montagem de circuitos eletrônicos**
 
 ---
 
