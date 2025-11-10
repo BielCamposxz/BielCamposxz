@@ -56,12 +56,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
----
-
-## 💡 Curiosidades
-
-- 🔍 Apaixonado por cibersegurança e pentest
-- 🛠️ Adoro montar e testar circuitos eletrônicos
-- 🌐 Curto simular redes no Cisco Packet Tracer
-- 🎮 Programar é meu principal hobby!
