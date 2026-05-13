@@ -1,57 +1,36 @@
-<div align="center">
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/LougonVitor/f7b145136c485b949977217df5e2a90a/raw/d3043eb109d59e15e2e7ad91c6c75fca695b4da7/githubcard.svg" />
+<!--<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vítor Lougon</h1>-->
+<p style="font-size: 100px;" align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, I'm Gabriel Campos</p>
 
-```
-╔═══════════════════════════════════════════════════╗
-║   G A B R I E L   C A M P O S   F I G U E I R A  ║
-╚═══════════════════════════════════════════════════╝
-```
+<hr />
 
-### Back-end Developer · Java & .NET · IT Support · Cybersecurity Enthusiast
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LougonVitoro&color=yellow" alt="Profile views" /> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+Developer;.NET+%7C+C%23+Back-end+Developer;Microsservi%C3%A7os+%7C+JWT+%7C+REST+APIs;Docker+%7C+AWS+%7C+NGINX+%7C+Linux;Testes+Unit%C3%A1rios+%7C+SQL+%7C+Git;Cybersecurity+%26+Pentest+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+- 🔥 Developer and technology enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-campos-figueira-72982731a)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielCamposf13@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biel.camposxz)
+- 🔭 I’m currently working at HIFA
 
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, JAVA, ETC...**
+
+- ⚡ Fun fact **Always 🧙‍♂️**
+
+- 👨‍💻 More at [LinkedIn - Gabriel Campos]([https://www.linkedin.com/in/vitor-lougon-376b38220](https://www.linkedin.com/in/gabriel-campos-figueira-72982731a/)/)
+
+<hr />
+
+<div style="display: flex">
+ <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="width: 40px" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" style="width: 40px" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width: 40px" title="C#"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" style="width: 40px" title=".NET"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="width: 40px" title="SQL / MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width: 40px" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="width: 40px" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" style="width: 40px" title="NGINX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width: 40px" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width: 40px" title="GitHub"/>
 </div>
 
----
 
-## 👨‍💻 Sobre mim
-
-Olá! Sou **Gabriel Campos**, estudante de **Informática para Internet** com atuação em **Suporte de TI** e foco em desenvolvimento **Back-end**. Construo APIs robustas com **Java + Spring Boot** e **.NET (C#)**, trabalho com microsserviços, containerizo com Docker, gerencio infraestrutura com NGINX e AWS, e tenho interesse crescente em **Cybersecurity e Pentest**.
-
-## 🛠️ Stack & Tecnologias
-
-### 💻 Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,mysql" />
-</p>
-
-### ⚙️ Frameworks & Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,docker,nginx,git,github,linux,aws" />
-</p>
-
----
-
-## 🧩 Áreas de Conhecimento
-
-<div align="center">
-
-| 🔧 Back-end | ☁️ Infra & DevOps | 🛡️ Segurança |
-|:-----------:|:-----------------:|:------------:|
-| Java & Spring Boot | Docker | Cybersecurity |
-| .NET (C#) | AWS | Pentest (estudos) |
-| Microsserviços | NGINX | Boas práticas OWASP |
-| JWT Authentication | Linux | |
-| APIs REST | Git & GitHub | |
-| SQL / MySQL | n8n Automation | |
-| Testes Unitários | Infraestrutura | |
-| Hardware & Redes | | |
-
-</div>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e32f07&height=120&section=footer"/>
