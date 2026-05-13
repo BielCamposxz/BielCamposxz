@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **Always 🧙‍♂️**
 
-- 👨‍💻 More at [LinkedIn - Gabriel Campos]([https://www.linkedin.com/in/vitor-lougon-376b38220](https://www.linkedin.com/in/gabriel-campos-figueira-72982731a/)/)
+- 👨‍💻 More at [LinkedIn - Gabriel Campos](https://www.linkedin.com/in/gabriel-campos-figueira-72982731a/)
 
 <hr />
 
