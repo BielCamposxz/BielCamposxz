@@ -1,100 +1,57 @@
-# 👋 Olá, eu sou Gabriel Campos!
+<div align="center">
 
-## 🚀 Desenvolvedor Back-end | Suporte de TI | Entusiasta em Cybersecurity
+```
+╔═══════════════════════════════════════════════════╗
+║   G A B R I E L   C A M P O S   F I G U E I R A  ║
+╚═══════════════════════════════════════════════════╝
+```
 
-🎓 Estudante de **Informática para Internet**  
-💼 Atuo com **Suporte de TI**, infraestrutura, manutenção e resolução de problemas técnicos  
-🧠 Apaixonado por desenvolvimento back-end, microsserviços, automação e segurança da informação
+### Back-end Developer · Java & .NET · IT Support · Cybersecurity Enthusiast
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Java+%2B+Spring+Boot+Developer;.NET+%7C+C%23+Back-end+Developer;Microsservi%C3%A7os+%7C+JWT+%7C+REST+APIs;Docker+%7C+AWS+%7C+NGINX+%7C+Linux;Testes+Unit%C3%A1rios+%7C+SQL+%7C+Git;Cybersecurity+%26+Pentest+Enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
-# 👨‍💻 Sobre mim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/gabriel-campos-figueira-72982731a)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielCamposf13@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biel.camposxz)
 
-- 🔧 Experiência prática com suporte técnico, hardware, redes e infraestrutura
-- ☕ Desenvolvimento de aplicações com **Java + Spring Boot**
-- ⚙️ Conhecimento em **microsserviços**, autenticação com **JWT** e APIs REST
-- 🐳 Utilização de **Docker** para conteinerização de aplicações
-- ☁️ Estudos e projetos utilizando **AWS**
-- 🧪 Testes unitários e boas práticas de desenvolvimento
-- 🛡️ Interesse em **Cybersecurity** e Pentest
-- 📚 Sempre buscando aprender novas tecnologias
+</div>
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+## 👨‍💻 Sobre mim
 
-## 💻 Linguagens
+Olá! Sou **Gabriel Campos**, estudante de **Informática para Internet** com atuação em **Suporte de TI** e foco em desenvolvimento **Back-end**. Construo APIs robustas com **Java + Spring Boot** e **.NET (C#)**, trabalho com microsserviços, containerizo com Docker, gerencio infraestrutura com NGINX e AWS, e tenho interesse crescente em **Cybersecurity e Pentest**.
+
+## 🛠️ Stack & Tecnologias
+
+### 💻 Linguagens
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,mysql" />
 </p>
 
----
-
-## ⚙️ Frameworks & Tecnologias
+### ⚙️ Frameworks & Ferramentas
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,docker,nginx,git,github,linux,aws" />
 </p>
 
 ---
 
-# 📚 Conhecimentos
+## 🧩 Áreas de Conhecimento
 
-- ☕ Java & Spring Boot
-- 🧩 Microsserviços
-- 🔐 JWT Authentication
-- 🐳 Docker
-- ☁️ AWS
-- 🗄️ SQL
-- 🌐 APIs REST
-- 🔧 Git & GitHub
-- 🖥️ Hardware & Infraestrutura
-- 🌐 Redes
-- 🛡️ Cybersecurity
-- 🤖 Automação com n8n
+<div align="center">
 
----
+| 🔧 Back-end | ☁️ Infra & DevOps | 🛡️ Segurança |
+|:-----------:|:-----------------:|:------------:|
+| Java & Spring Boot | Docker | Cybersecurity |
+| .NET (C#) | AWS | Pentest (estudos) |
+| Microsserviços | NGINX | Boas práticas OWASP |
+| JWT Authentication | Linux | |
+| APIs REST | Git & GitHub | |
+| SQL / MySQL | n8n Automation | |
+| Testes Unitários | Infraestrutura | |
+| Hardware & Redes | | |
 
-# 📈 GitHub Stats
+</div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 📫 Contato
-
-<p align="center">
-  <a href="mailto:gabrielCamposf13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://br.linkedin.com/in/gabriel-campos-figueira-72982731a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/biel.camposxz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  🚀 “Transformando ideias em soluções através da tecnologia.”
-</p>
