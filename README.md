@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at HIFA
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, JAVA, ETC...**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, C#, JAVA, ETC...**
 
 - ⚡ Fun fact **Always 🧙‍♂️**
 
